@@ -12,6 +12,10 @@ src/
 │   ├── __init__.py
 │   └── query_manager.py
 │
+├── settings/
+│   ├── __init__.py
+│   └── re_user_patterns.py
+│
 ├── utils/
 │   ├── __init__.py
 │
@@ -19,4 +23,8 @@ src/
 │   ├── __init__.py
 │   └── validator.py
 │
+└── main.py
+│
+tests/
+├── __init__.py
 └── main.py
