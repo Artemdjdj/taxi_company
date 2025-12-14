@@ -1,0 +1,14 @@
+src/
+├── exceptions/
+│   ├── __init__.py
+│   ├── database_exceptions.py
+│   └── user_exceptions.py
+│
+├── db_manager/
+│   ├── connection.py
+│
+├── validator/
+│   ├── __init__.py
+│   ├── validator.py
+│
+└── main.py
