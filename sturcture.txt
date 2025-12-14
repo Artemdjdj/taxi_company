@@ -1,14 +1,22 @@
 src/
+├── db_manager/
+│   ├── __init__.py
+│   └── connection.py
+│
 ├── exceptions/
 │   ├── __init__.py
 │   ├── database_exceptions.py
 │   └── user_exceptions.py
 │
-├── db_manager/
-│   ├── connection.py
+├── query_manager/
+│   ├── __init__.py
+│   └── query_manager.py
+│
+├── utils/
+│   ├── __init__.py
 │
 ├── validator/
 │   ├── __init__.py
-│   ├── validator.py
+│   └── validator.py
 │
 └── main.py
