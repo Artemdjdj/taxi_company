@@ -23,8 +23,11 @@ src/
 │   ├── __init__.py
 │   └── validator.py
 │
-└── main.py
-│
 tests/
-├── __init__.py
+│   ├── __init__.py
+│   └── main.py
+├── .env
+├── .env.example
+├── .gitignore
+├── config.py
 └── main.py
